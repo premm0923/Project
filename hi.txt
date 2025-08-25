@@ -1,1 +1,4 @@
-ajfvjafj
+a=7
+b=8
+c=8
+alkmdlk
