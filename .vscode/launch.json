@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug C program (MSYS2 GCC)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "stopOnEntry": false,
+      "console": "integratedTerminal",
+      "preLaunchTask": "build C file"
+    }
+  ]
+}
